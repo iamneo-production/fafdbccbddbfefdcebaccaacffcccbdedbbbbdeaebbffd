@@ -8,4 +8,4 @@ function getTopThree(studentMarks = []) {
     return [first, second, third].sort();
 }
 
-export {getUserIpDetails}
+export {getUserIpDetails, getTopThree}
